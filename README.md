@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently trying to go to bed early and get up early
+- 🌱 I’m currently learning Deep Learning/GNNs/Time series 
+- 😄 MBTI: ENTJ
+
+
 <!--
 **EyesDawn/EyesDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
