@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently trying to go to bed early and get up early
-- 🌱 I’m currently learning Deep Learning/GNNs/Time series 
+- 🌱 I’m currently learning Deep Learning/Time series 
 - 😄 MBTI: ENTJ
 
 
